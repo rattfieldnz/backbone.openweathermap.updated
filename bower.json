@@ -1,0 +1,35 @@
+{
+  "name": "backbone.openweathermap.updated",
+  "version": "1.0.3",
+  "homepage": "https://github.com/rattfieldnz/backbone.openweathermap.updated",
+  "authors": [
+    "Michele Bellcuo <michele@belluco.info>", 
+	  "Rob Attfield <emailme@robertattfield.com>"
+  ],
+  "description": "Simple Backbone library to connect OpenWeatherMap's API",
+  "main": "lib/backbone.openweathermap.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "backbone",
+    "openweathermap",
+    "weather",
+    "meteo"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~3.1.1",
+    "underscore": "~1.8.3",
+    "backbone": "~1.3.3"
+  }
+}
