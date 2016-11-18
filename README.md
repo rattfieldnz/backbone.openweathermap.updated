@@ -8,7 +8,7 @@ Simple Backbone library to connect [OpenWeatherMap](http://openweathermap.org/cu
 ### bower
 
 ```
-bower install backbone.openweathermap
+bower install "https://github.com/rattfieldnz/backbone.openweathermap.updated.git"
 ```
 
 ## Methods
